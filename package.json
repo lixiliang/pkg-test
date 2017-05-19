@@ -1,5 +1,5 @@
 {
-  "name": "test-pkg-sakyone",
+  "name": "test-pkg-sakyone-onlyone",
   "version": "1.0.0",
   "description": "test",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "no"
+    "url": "git@github.com:lixiliang/pkg-test.git"
   },
   "keywords": [
     "test"
